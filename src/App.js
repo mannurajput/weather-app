@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css"
-import { useState } from 'react';
-import axios from 'axios';
+
+
 import PlaceIcon from '@mui/icons-material/Place';
 function App() {
   
@@ -22,7 +22,7 @@ function App() {
                 <div className="others" id="current-weather-items">
                     <h3 className='nn'>hii nengri</h3>
                     <h2>mausam ane wala hai kam chal rha hai</h2>
-                    <img src=''></img>
+                   
                     
                 </div>
             </div>
