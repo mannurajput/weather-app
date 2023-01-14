@@ -29,7 +29,7 @@ function App() {
 
             <div className="place-container">
             <input placeholder='search city' type="text" className="input"></input>
-                <div className="time-zone" id="time-zone"><span><PlaceIcon /></span>Asia/Kolkata</div>
+                <div className="time-zone" id="time-zone"><span><PlaceIcon /></span>Asia/Khandidih</div>
                 <div id="country" className="country">IN</div>
             </div>
         </div>
